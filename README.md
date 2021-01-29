@@ -10,3 +10,7 @@
 
 - Customer Registration / Encrypted Passwords
 - Secure logins with jsonwebtoken
+
+
+
+-working in progress...
